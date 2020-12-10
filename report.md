@@ -7,9 +7,8 @@
 На тестирование затрачено: 0.5 ч.
 
 В результате тестирования выявлены следующие дефекты:
-* [Issue1](https://github.com/ks1109b/1.1.-Java-1/issues/1#issue-761068724)
-* [Issue2](https://github.com/ks1109b/1.1.-Java-1/issues/2#issue-761079640)
-* [Issue3](https://github.com/ks1109b/1.1.-Java-1/issues/3#issue-761084992)
+* [Issue1](https://github.com/ks1109b/1.1.-Java-2/issues/1#issue-761171642)
+* [Issue2](https://github.com/ks1109b/1.1.-Java-2/issues/2#issue-761176620)
 
 ## Описание процесса тестирования
 
@@ -18,6 +17,7 @@
 
 В качестве тестовых данных использовались данные:
 * 4716343726209472 - Result is OK
+* 4485761515580210461 - Result is OK
 * 4508712588256031 - Result is OK
 * 379751257483702 - Result is OK
 * 6759688447522857 - Result is OK
